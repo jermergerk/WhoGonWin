@@ -1,0 +1,901 @@
+[
+{
+    "artist": "Nelly", 
+    "change": "+1", 
+    "lastPos": 2, 
+    "peakPos": 1, 
+    "rank": 1, 
+    "title": "Hot In Herre", 
+    "weeks": 9
+},
+{
+    "artist": "Eminem", 
+    "change": "+2", 
+    "lastPos": 4, 
+    "peakPos": 2, 
+    "rank": 2, 
+    "title": "Without Me", 
+    "weeks": 8
+},
+{
+    "artist": "Ashanti", 
+    "change": "-2", 
+    "lastPos": 1, 
+    "peakPos": 1, 
+    "rank": 3, 
+    "title": "Foolish", 
+    "weeks": 20
+},
+{
+    "artist": "P. Diddy Featuring Usher & Loon", 
+    "change": "-1", 
+    "lastPos": 3, 
+    "peakPos": 2, 
+    "rank": 4, 
+    "title": "I Need A Girl (Part One)", 
+    "weeks": 16
+},
+{
+    "artist": "Cam'ron Featuring Juelz Santana", 
+    "change": "+3", 
+    "lastPos": 8, 
+    "peakPos": 5, 
+    "rank": 5, 
+    "title": "Oh Boy", 
+    "weeks": 11
+},
+{
+    "artist": "Jimmy Eat World", 
+    "change": "-1", 
+    "lastPos": 5, 
+    "peakPos": 5, 
+    "rank": 6, 
+    "title": "The Middle", 
+    "weeks": 16
+},
+{
+    "artist": "Vanessa Carlton", 
+    "change": "-1", 
+    "lastPos": 6, 
+    "peakPos": 5, 
+    "rank": 7, 
+    "title": "A Thousand Miles", 
+    "weeks": 18
+},
+{
+    "artist": "Chad Kroeger Featuring Josey Scott", 
+    "change": "+4", 
+    "lastPos": 12, 
+    "peakPos": 8, 
+    "rank": 8, 
+    "title": "Hero", 
+    "weeks": 7
+},
+{
+    "artist": "Truth Hurts Featuring Rakim", 
+    "change": "0", 
+    "lastPos": 9, 
+    "peakPos": 9, 
+    "rank": 9, 
+    "title": "Addictive", 
+    "weeks": 11
+},
+{
+    "artist": "Jennifer Lopez Featuring Nas", 
+    "change": "+1", 
+    "lastPos": 11, 
+    "peakPos": 10, 
+    "rank": 10, 
+    "title": "I'm Gonna Be Alright", 
+    "weeks": 10
+},
+{
+    "artist": "Fat Joe Featuring Ashanti", 
+    "change": "-4", 
+    "lastPos": 7, 
+    "peakPos": 2, 
+    "rank": 11, 
+    "title": "What's Luv?", 
+    "weeks": 20
+},
+{
+    "artist": "Big Tymers", 
+    "change": "+7", 
+    "lastPos": 19, 
+    "peakPos": 12, 
+    "rank": 12, 
+    "title": "Still Fly", 
+    "weeks": 12
+},
+{
+    "artist": "No Doubt", 
+    "change": "+1", 
+    "lastPos": 14, 
+    "peakPos": 13, 
+    "rank": 13, 
+    "title": "Hella Good", 
+    "weeks": 11
+},
+{
+    "artist": "Dirty Vegas", 
+    "change": "+2", 
+    "lastPos": 16, 
+    "peakPos": 14, 
+    "rank": 14, 
+    "title": "Days Go By", 
+    "weeks": 8
+},
+{
+    "artist": "Usher", 
+    "change": "-5", 
+    "lastPos": 10, 
+    "peakPos": 3, 
+    "rank": 15, 
+    "title": "U Don't Have To Call", 
+    "weeks": 21
+},
+{
+    "artist": "Michelle Branch", 
+    "change": "-1", 
+    "lastPos": 15, 
+    "peakPos": 6, 
+    "rank": 16, 
+    "title": "All You Wanted", 
+    "weeks": 19
+},
+{
+    "artist": "Musiq", 
+    "change": "0", 
+    "lastPos": 17, 
+    "peakPos": 17, 
+    "rank": 17, 
+    "title": "halfcrazy", 
+    "weeks": 15
+},
+{
+    "artist": "Avril Lavigne", 
+    "change": "+12", 
+    "lastPos": 30, 
+    "peakPos": 18, 
+    "rank": 18, 
+    "title": "Complicated", 
+    "weeks": 5
+},
+{
+    "artist": "Sheryl Crow", 
+    "change": "+3", 
+    "lastPos": 22, 
+    "peakPos": 19, 
+    "rank": 19, 
+    "title": "Soak Up The Sun", 
+    "weeks": 12
+},
+{
+    "artist": "Puddle Of Mudd", 
+    "change": "-7", 
+    "lastPos": 13, 
+    "peakPos": 5, 
+    "rank": 20, 
+    "title": "Blurry", 
+    "weeks": 28
+},
+{
+    "artist": "P. Diddy & Ginuwine Featuring Loon, Mario Winans & Tammy Ruggieri", 
+    "change": "+7", 
+    "lastPos": 28, 
+    "peakPos": 21, 
+    "rank": 21, 
+    "title": "I Need A Girl (Part Two)", 
+    "weeks": 4
+},
+{
+    "artist": "Default", 
+    "change": "-2", 
+    "lastPos": 20, 
+    "peakPos": 13, 
+    "rank": 22, 
+    "title": "Wasting My Time", 
+    "weeks": 26
+},
+{
+    "artist": "Brandy", 
+    "change": "+1", 
+    "lastPos": 24, 
+    "peakPos": 23, 
+    "rank": 23, 
+    "title": "Full Moon", 
+    "weeks": 9
+},
+{
+    "artist": "Pink", 
+    "change": "-1", 
+    "lastPos": 23, 
+    "peakPos": 8, 
+    "rank": 24, 
+    "title": "Don't Let Me Get Me", 
+    "weeks": 17
+},
+{
+    "artist": "Mary J. Blige Featuring Ja Rule", 
+    "change": "-7", 
+    "lastPos": 18, 
+    "peakPos": 12, 
+    "rank": 25, 
+    "title": "Rainy Dayz", 
+    "weeks": 14
+},
+{
+    "artist": "The Calling", 
+    "change": "0", 
+    "lastPos": 26, 
+    "peakPos": 5, 
+    "rank": 26, 
+    "title": "Wherever You Will Go", 
+    "weeks": 34
+},
+{
+    "artist": "Ja Rule Featuring Charli \"Chuck\" Baltimore", 
+    "change": "-6", 
+    "lastPos": 21, 
+    "peakPos": 21, 
+    "rank": 27, 
+    "title": "Down A** Chick", 
+    "weeks": 12
+},
+{
+    "artist": "George Strait", 
+    "change": "-1", 
+    "lastPos": 27, 
+    "peakPos": 27, 
+    "rank": 28, 
+    "title": "Living And Living Well", 
+    "weeks": 13
+},
+{
+    "artist": "Aaliyah", 
+    "change": "-4", 
+    "lastPos": 25, 
+    "peakPos": 25, 
+    "rank": 29, 
+    "title": "More Than A Woman", 
+    "weeks": 22
+},
+{
+    "artist": "Linkin Park", 
+    "change": "-1", 
+    "lastPos": 29, 
+    "peakPos": 2, 
+    "rank": 30, 
+    "title": "In The End", 
+    "weeks": 35
+},
+{
+    "artist": "Tweet", 
+    "change": "+8", 
+    "lastPos": 39, 
+    "peakPos": 31, 
+    "rank": 31, 
+    "title": "Call Me", 
+    "weeks": 5
+},
+{
+    "artist": "Brad Paisley", 
+    "change": "+6", 
+    "lastPos": 38, 
+    "peakPos": 32, 
+    "rank": 32, 
+    "title": "I'm Gonna Miss Her (The Fishin' Song)", 
+    "weeks": 9
+},
+{
+    "artist": "Busta Rhymes Featuring P. Diddy & Pharrell", 
+    "change": "+3", 
+    "lastPos": 36, 
+    "peakPos": 11, 
+    "rank": 33, 
+    "title": "Pass The Courvoisier Part II", 
+    "weeks": 18
+},
+{
+    "artist": "B2K", 
+    "change": "+3", 
+    "lastPos": 37, 
+    "peakPos": 34, 
+    "rank": 34, 
+    "title": "Gots Ta Be", 
+    "weeks": 10
+},
+{
+    "artist": "Nickelback", 
+    "change": "-3", 
+    "lastPos": 32, 
+    "peakPos": 1, 
+    "rank": 35, 
+    "title": "How You Remind Me", 
+    "weeks": 43
+},
+{
+    "artist": "Alan Jackson", 
+    "change": "-5", 
+    "lastPos": 31, 
+    "peakPos": 28, 
+    "rank": 36, 
+    "title": "Drive (For Daddy Gene)", 
+    "weeks": 16
+},
+{
+    "artist": "Mario", 
+    "change": "+21", 
+    "lastPos": 58, 
+    "peakPos": 37, 
+    "rank": 37, 
+    "title": "Just A Friend 2002", 
+    "weeks": 6
+},
+{
+    "artist": "DJ Sammy & Yanou Featuring Do", 
+    "change": "+13", 
+    "lastPos": 51, 
+    "peakPos": 38, 
+    "rank": 38, 
+    "title": "Heaven", 
+    "weeks": 5
+},
+{
+    "artist": "Shakira", 
+    "change": "-6", 
+    "lastPos": 33, 
+    "peakPos": 9, 
+    "rank": 39, 
+    "title": "Underneath Your Clothes", 
+    "weeks": 16
+},
+{
+    "artist": "Irv Gotti Presents The INC. Featuring Ja Rule, Ashanti, Charli Baltimore & Vita", 
+    "change": "+34", 
+    "lastPos": 74, 
+    "peakPos": 40, 
+    "rank": 40, 
+    "title": "Down 4 U", 
+    "weeks": 2
+},
+{
+    "artist": "John Mayer", 
+    "change": "+5", 
+    "lastPos": 46, 
+    "peakPos": 41, 
+    "rank": 41, 
+    "title": "No Such Thing", 
+    "weeks": 5
+},
+{
+    "artist": "Kenny Chesney", 
+    "change": "+12", 
+    "lastPos": 54, 
+    "peakPos": 42, 
+    "rank": 42, 
+    "title": "The Good Stuff", 
+    "weeks": 4
+},
+{
+    "artist": "Jennifer Lopez Featuring Ja Rule", 
+    "change": "-8", 
+    "lastPos": 35, 
+    "peakPos": 1, 
+    "rank": 43, 
+    "title": "Ain't It Funny", 
+    "weeks": 27
+},
+{
+    "artist": "N.O.R.E.", 
+    "change": "+13", 
+    "lastPos": 57, 
+    "peakPos": 44, 
+    "rank": 44, 
+    "title": "Nothin'", 
+    "weeks": 6
+},
+{
+    "artist": "Lonestar", 
+    "change": "0", 
+    "lastPos": 45, 
+    "peakPos": 45, 
+    "rank": 45, 
+    "title": "Not A Day Goes By", 
+    "weeks": 8
+},
+{
+    "artist": "Craig David", 
+    "change": "+4", 
+    "lastPos": 50, 
+    "peakPos": 46, 
+    "rank": 46, 
+    "title": "Walking Away", 
+    "weeks": 6
+},
+{
+    "artist": "Toby Keith", 
+    "change": "+16", 
+    "lastPos": 63, 
+    "peakPos": 47, 
+    "rank": 47, 
+    "title": "Courtesy Of The Red, White And Blue (The Angry American)", 
+    "weeks": 4
+},
+{
+    "artist": "Gary Allan", 
+    "change": "+4", 
+    "lastPos": 52, 
+    "peakPos": 48, 
+    "rank": 48, 
+    "title": "The One", 
+    "weeks": 7
+},
+{
+    "artist": "Ruff Endz", 
+    "change": "0", 
+    "lastPos": 49, 
+    "peakPos": 49, 
+    "rank": 49, 
+    "title": "Someone To Love You", 
+    "weeks": 8
+},
+{
+    "artist": "Paulina Rubio", 
+    "change": "-9", 
+    "lastPos": 41, 
+    "peakPos": 41, 
+    "rank": 50, 
+    "title": "Don't Say Goodbye", 
+    "weeks": 9
+},
+{
+    "artist": "Red Hot Chili Peppers", 
+    "change": "+2", 
+    "lastPos": 53, 
+    "peakPos": 51, 
+    "rank": 51, 
+    "title": "By The Way", 
+    "weeks": 3
+},
+{
+    "artist": "Jaheim Featuring Next", 
+    "change": "-10", 
+    "lastPos": 42, 
+    "peakPos": 28, 
+    "rank": 52, 
+    "title": "Anything", 
+    "weeks": 19
+},
+{
+    "artist": "Avant", 
+    "change": "-19", 
+    "lastPos": 34, 
+    "peakPos": 27, 
+    "rank": 53, 
+    "title": "Makin' Good Love", 
+    "weeks": 15
+},
+{
+    "artist": "Brooks & Dunn", 
+    "change": "+5", 
+    "lastPos": 59, 
+    "peakPos": 54, 
+    "rank": 54, 
+    "title": "My Heart Is Lost To You", 
+    "weeks": 6
+},
+{
+    "artist": "Steve Azar", 
+    "change": "-15", 
+    "lastPos": 40, 
+    "peakPos": 35, 
+    "rank": 55, 
+    "title": "I Don't Have To Be Me ('Til Monday)", 
+    "weeks": 13
+},
+{
+    "artist": "Amerie", 
+    "change": "+6", 
+    "lastPos": 62, 
+    "peakPos": 56, 
+    "rank": 56, 
+    "title": "Why Don't We Fall In Love", 
+    "weeks": 4
+},
+{
+    "artist": "Goo Goo Dolls", 
+    "change": "-9", 
+    "lastPos": 48, 
+    "peakPos": 18, 
+    "rank": 57, 
+    "title": "Here Is Gone", 
+    "weeks": 15
+},
+{
+    "artist": "Enrique Iglesias", 
+    "change": "-11", 
+    "lastPos": 47, 
+    "peakPos": 12, 
+    "rank": 58, 
+    "title": "Escape", 
+    "weeks": 19
+},
+{
+    "artist": "Creed", 
+    "change": "+2", 
+    "lastPos": 61, 
+    "peakPos": 59, 
+    "rank": 59, 
+    "title": "One Last Breath", 
+    "weeks": 4
+},
+{
+    "artist": "Donell Jones", 
+    "change": "0", 
+    "lastPos": 60, 
+    "peakPos": 54, 
+    "rank": 60, 
+    "title": "You Know That I Love You", 
+    "weeks": 10
+},
+{
+    "artist": "Toby Keith", 
+    "change": "-6", 
+    "lastPos": 55, 
+    "peakPos": 26, 
+    "rank": 61, 
+    "title": "My List", 
+    "weeks": 20
+},
+{
+    "artist": "Kellie Coffey", 
+    "change": "+2", 
+    "lastPos": 64, 
+    "peakPos": 62, 
+    "rank": 62, 
+    "title": "When You Lie Next To Me", 
+    "weeks": 5
+},
+{
+    "artist": "Nickelback", 
+    "change": "-7", 
+    "lastPos": 56, 
+    "peakPos": 42, 
+    "rank": 63, 
+    "title": "Too Bad", 
+    "weeks": 16
+},
+{
+    "artist": "Dixie Chicks", 
+    "change": "+3", 
+    "lastPos": 67, 
+    "peakPos": 64, 
+    "rank": 64, 
+    "title": "Long Time Gone", 
+    "weeks": 2
+},
+{
+    "artist": "The Clipse", 
+    "change": "+11", 
+    "lastPos": 76, 
+    "peakPos": 65, 
+    "rank": 65, 
+    "title": "Grindin'", 
+    "weeks": 6
+},
+{
+    "artist": "Puddle Of Mudd", 
+    "change": "0", 
+    "lastPos": 66, 
+    "peakPos": 66, 
+    "rank": 66, 
+    "title": "Drift & Die", 
+    "weeks": 6
+},
+{
+    "artist": "Darryl Worley", 
+    "change": "+5", 
+    "lastPos": 72, 
+    "peakPos": 67, 
+    "rank": 67, 
+    "title": "I Miss My Friend", 
+    "weeks": 3
+},
+{
+    "artist": "Emerson Drive", 
+    "change": "-24", 
+    "lastPos": 44, 
+    "peakPos": 35, 
+    "rank": 68, 
+    "title": "I Should Be Sleeping", 
+    "weeks": 16
+},
+{
+    "artist": "Khia Featuring DSD", 
+    "change": "+6", 
+    "lastPos": 75, 
+    "peakPos": 69, 
+    "rank": 69, 
+    "title": "My Neck, My Back", 
+    "weeks": 6
+},
+{
+    "artist": "Celine Dion", 
+    "change": "-5", 
+    "lastPos": 65, 
+    "peakPos": 22, 
+    "rank": 70, 
+    "title": "A New Day Has Come", 
+    "weeks": 18
+},
+{
+    "artist": "Ludacris Featuring Sleepy Brown", 
+    "change": "-2", 
+    "lastPos": 69, 
+    "peakPos": 22, 
+    "rank": 71, 
+    "title": "Saturday (Oooh! Ooooh!)", 
+    "weeks": 20
+},
+{
+    "artist": "Ying Yang Twins", 
+    "change": "-1", 
+    "lastPos": 71, 
+    "peakPos": 56, 
+    "rank": 72, 
+    "title": "Say I Yi Yi", 
+    "weeks": 9
+},
+{
+    "artist": "Dave Matthews Band", 
+    "change": "0", 
+    "lastPos": 73, 
+    "peakPos": 73, 
+    "rank": 73, 
+    "title": "Where Are You Going", 
+    "weeks": 3
+},
+{
+    "artist": "Andy Griggs", 
+    "change": "Hot Shot Debut", 
+    "lastPos": 0, 
+    "peakPos": 74, 
+    "rank": 74, 
+    "title": "Tonight I Wanna Be Your Man", 
+    "weeks": 1
+},
+{
+    "artist": "Tommy Shane Steiner", 
+    "change": "-7", 
+    "lastPos": 68, 
+    "peakPos": 39, 
+    "rank": 75, 
+    "title": "What If She's An Angel", 
+    "weeks": 19
+},
+{
+    "artist": "Ludacris Featuring Mystikal & Infamous 2.0", 
+    "change": "+4", 
+    "lastPos": 80, 
+    "peakPos": 76, 
+    "rank": 76, 
+    "title": "Move B***h", 
+    "weeks": 4
+},
+{
+    "artist": "Will Smith Featuring Tra-Knox", 
+    "change": "New", 
+    "lastPos": 0, 
+    "peakPos": 77, 
+    "rank": 77, 
+    "title": "Black Suits Comin' (Nod Ya Head)", 
+    "weeks": 1
+},
+{
+    "artist": "Ashanti", 
+    "change": "-1", 
+    "lastPos": 77, 
+    "peakPos": 77, 
+    "rank": 78, 
+    "title": "Happy", 
+    "weeks": 5
+},
+{
+    "artist": "Korn", 
+    "change": "-1", 
+    "lastPos": 78, 
+    "peakPos": 72, 
+    "rank": 79, 
+    "title": "Here To Stay", 
+    "weeks": 6
+},
+{
+    "artist": "Staind", 
+    "change": "+1", 
+    "lastPos": 81, 
+    "peakPos": 63, 
+    "rank": 80, 
+    "title": "For You", 
+    "weeks": 18
+},
+{
+    "artist": "Joe", 
+    "change": "+2", 
+    "lastPos": 83, 
+    "peakPos": 63, 
+    "rank": 81, 
+    "title": "What If A Woman", 
+    "weeks": 8
+},
+{
+    "artist": "Joe Nichols", 
+    "change": "+8", 
+    "lastPos": 90, 
+    "peakPos": 82, 
+    "rank": 82, 
+    "title": "The Impossible", 
+    "weeks": 5
+},
+{
+    "artist": "Carolyn Dawn Johnson", 
+    "change": "-13", 
+    "lastPos": 70, 
+    "peakPos": 54, 
+    "rank": 83, 
+    "title": "I Don't Want You To Go", 
+    "weeks": 8
+},
+{
+    "artist": "Phil Vassar", 
+    "change": "-2", 
+    "lastPos": 82, 
+    "peakPos": 37, 
+    "rank": 84, 
+    "title": "That's When I Love You", 
+    "weeks": 19
+},
+{
+    "artist": "Angie Martinez Featuring Lil' Mo & Sacario", 
+    "change": "+6", 
+    "lastPos": 91, 
+    "peakPos": 85, 
+    "rank": 85, 
+    "title": "If I Could Go!", 
+    "weeks": 2
+},
+{
+    "artist": "Pilar Montenegro", 
+    "change": "+3", 
+    "lastPos": 89, 
+    "peakPos": 74, 
+    "rank": 86, 
+    "title": "Quitame Ese Hombre", 
+    "weeks": 6
+},
+{
+    "artist": "Nas", 
+    "change": "-8", 
+    "lastPos": 79, 
+    "peakPos": 43, 
+    "rank": 87, 
+    "title": "One Mic", 
+    "weeks": 11
+},
+{
+    "artist": "Naughty By Nature Featuring 3LW", 
+    "change": "-1", 
+    "lastPos": 87, 
+    "peakPos": 53, 
+    "rank": 88, 
+    "title": "Feels Good (Don't Worry Bout A Thing)", 
+    "weeks": 14
+},
+{
+    "artist": "Tanto Metro & Devonte", 
+    "change": "+5", 
+    "lastPos": 94, 
+    "peakPos": 87, 
+    "rank": 89, 
+    "title": "Give It To Her", 
+    "weeks": 14
+},
+{
+    "artist": "System Of A Down", 
+    "change": "-2", 
+    "lastPos": 88, 
+    "peakPos": 70, 
+    "rank": 90, 
+    "title": "Toxicity", 
+    "weeks": 9
+},
+{
+    "artist": "Soluna", 
+    "change": "+7", 
+    "lastPos": 98, 
+    "peakPos": 91, 
+    "rank": 91, 
+    "title": "For All Time", 
+    "weeks": 2
+},
+{
+    "artist": "Angie Stone", 
+    "change": "-7", 
+    "lastPos": 85, 
+    "peakPos": 79, 
+    "rank": 92, 
+    "title": "Wish I Didn't Miss You", 
+    "weeks": 15
+},
+{
+    "artist": "Sean Paul", 
+    "change": "+4", 
+    "lastPos": 97, 
+    "peakPos": 93, 
+    "rank": 93, 
+    "title": "Gimme The Light", 
+    "weeks": 9
+},
+{
+    "artist": "Scarface Featuring Jay-Z & Beanie Sigel", 
+    "change": "-1", 
+    "lastPos": 93, 
+    "peakPos": 79, 
+    "rank": 94, 
+    "title": "Guess Who's Back", 
+    "weeks": 7
+},
+{
+    "artist": "Kylie Minogue", 
+    "change": "New", 
+    "lastPos": 0, 
+    "peakPos": 95, 
+    "rank": 95, 
+    "title": "Love At First Sight", 
+    "weeks": 1
+},
+{
+    "artist": "Nappy Roots", 
+    "change": "-10", 
+    "lastPos": 86, 
+    "peakPos": 51, 
+    "rank": 96, 
+    "title": "Awnaw", 
+    "weeks": 17
+},
+{
+    "artist": "Beanie Sigel & Freeway", 
+    "change": "-1", 
+    "lastPos": 96, 
+    "peakPos": 55, 
+    "rank": 97, 
+    "title": "Roc The Mic", 
+    "weeks": 19
+},
+{
+    "artist": "Isyss Featuring Jadakiss", 
+    "change": "+1", 
+    "lastPos": 99, 
+    "peakPos": 98, 
+    "rank": 98, 
+    "title": "Day + Night", 
+    "weeks": 4
+},
+{
+    "artist": "Maxwell", 
+    "change": "Re-Entry", 
+    "lastPos": 0, 
+    "peakPos": 58, 
+    "rank": 99, 
+    "title": "This Woman's Work", 
+    "weeks": 15
+},
+{
+    "artist": "Hoobastank", 
+    "change": "0", 
+    "lastPos": 100, 
+    "peakPos": 68, 
+    "rank": 100, 
+    "title": "Crawling In The Dark", 
+    "weeks": 18
+}]

@@ -1,0 +1,901 @@
+[
+{
+    "artist": "Tommy Edwards", 
+    "change": "0", 
+    "lastPos": 1, 
+    "peakPos": 1, 
+    "rank": 1, 
+    "title": "It's All In The Game", 
+    "weeks": 22
+},
+{
+    "artist": "Conway Twitty", 
+    "change": "0", 
+    "lastPos": 2, 
+    "peakPos": 1, 
+    "rank": 2, 
+    "title": "It's Only Make Believe", 
+    "weeks": 21
+},
+{
+    "artist": "Cozy Cole", 
+    "change": "+1", 
+    "lastPos": 4, 
+    "peakPos": 3, 
+    "rank": 3, 
+    "title": "Topsy II", 
+    "weeks": 21
+},
+{
+    "artist": "The Kingston Trio", 
+    "change": "-1", 
+    "lastPos": 3, 
+    "peakPos": 1, 
+    "rank": 4, 
+    "title": "Tom Dooley", 
+    "weeks": 21
+},
+{
+    "artist": "Bobby Day", 
+    "change": "0", 
+    "lastPos": 5, 
+    "peakPos": 2, 
+    "rank": 5, 
+    "title": "Rock-in Robin", 
+    "weeks": 21
+},
+{
+    "artist": "Big Bopper", 
+    "change": "+4", 
+    "lastPos": 10, 
+    "peakPos": 6, 
+    "rank": 6, 
+    "title": "Chantilly Lace", 
+    "weeks": 25
+},
+{
+    "artist": "The Tommy Dorsey Orchestra", 
+    "change": "+1", 
+    "lastPos": 8, 
+    "peakPos": 7, 
+    "rank": 7, 
+    "title": "Tea For Two Cha Cha", 
+    "weeks": 20
+},
+{
+    "artist": "Earl Grant", 
+    "change": "+3", 
+    "lastPos": 11, 
+    "peakPos": 7, 
+    "rank": 8, 
+    "title": "The End", 
+    "weeks": 19
+},
+{
+    "artist": "Little Anthony And The Imperials", 
+    "change": "-3", 
+    "lastPos": 6, 
+    "peakPos": 4, 
+    "rank": 9, 
+    "title": "Tears On My Pillow", 
+    "weeks": 19
+},
+{
+    "artist": "The Everly Brothers", 
+    "change": "-3", 
+    "lastPos": 7, 
+    "peakPos": 2, 
+    "rank": 10, 
+    "title": "Bird Dog", 
+    "weeks": 18
+},
+{
+    "artist": "The Teddy Bears", 
+    "change": "+4", 
+    "lastPos": 15, 
+    "peakPos": 1, 
+    "rank": 11, 
+    "title": "To Know Him, Is To Love Him", 
+    "weeks": 23
+},
+{
+    "artist": "Robin Luke", 
+    "change": "-3", 
+    "lastPos": 9, 
+    "peakPos": 5, 
+    "rank": 12, 
+    "title": "Susie Darlin'", 
+    "weeks": 17
+},
+{
+    "artist": "Ricky Nelson", 
+    "change": "+10", 
+    "lastPos": 23, 
+    "peakPos": 10, 
+    "rank": 13, 
+    "title": "I Got A Feeling", 
+    "weeks": 17
+},
+{
+    "artist": "Ricky Nelson", 
+    "change": "+4", 
+    "lastPos": 18, 
+    "peakPos": 7, 
+    "rank": 14, 
+    "title": "Lonesome Town", 
+    "weeks": 18
+},
+{
+    "artist": "Bobby Darin", 
+    "change": "+16", 
+    "lastPos": 31, 
+    "peakPos": 9, 
+    "rank": 15, 
+    "title": "Queen Of The Hop", 
+    "weeks": 19
+},
+{
+    "artist": "The Applejacks", 
+    "change": "+5", 
+    "lastPos": 21, 
+    "peakPos": 16, 
+    "rank": 16, 
+    "title": "Mexican Hat Rock", 
+    "weeks": 15
+},
+{
+    "artist": "The Ames Brothers", 
+    "change": "+2", 
+    "lastPos": 19, 
+    "peakPos": 17, 
+    "rank": 17, 
+    "title": "Pussy Cat", 
+    "weeks": 15
+},
+{
+    "artist": "Domenico Modugno", 
+    "change": "-4", 
+    "lastPos": 14, 
+    "peakPos": 1, 
+    "rank": 18, 
+    "title": "Nel Blu Dipinto Di Blu (Volar\u00c3\u0083\u00c2\u00a9)", 
+    "weeks": 16
+},
+{
+    "artist": "Kalin Twins", 
+    "change": "-7", 
+    "lastPos": 12, 
+    "peakPos": 12, 
+    "rank": 19, 
+    "title": "Forget Me Not", 
+    "weeks": 15
+},
+{
+    "artist": "Roger Williams", 
+    "change": "-4", 
+    "lastPos": 16, 
+    "peakPos": 10, 
+    "rank": 20, 
+    "title": "Near You", 
+    "weeks": 17
+},
+{
+    "artist": "The Elegants", 
+    "change": "-8", 
+    "lastPos": 13, 
+    "peakPos": 1, 
+    "rank": 21, 
+    "title": "Little Star", 
+    "weeks": 17
+},
+{
+    "artist": "Johnny Mathis", 
+    "change": "+11", 
+    "lastPos": 33, 
+    "peakPos": 21, 
+    "rank": 22, 
+    "title": "Call Me", 
+    "weeks": 15
+},
+{
+    "artist": "The Shields", 
+    "change": "-6", 
+    "lastPos": 17, 
+    "peakPos": 15, 
+    "rank": 23, 
+    "title": "You Cheated", 
+    "weeks": 16
+},
+{
+    "artist": "Jane Morgan", 
+    "change": "+2", 
+    "lastPos": 26, 
+    "peakPos": 21, 
+    "rank": 24, 
+    "title": "The Day The Rains Came", 
+    "weeks": 15
+},
+{
+    "artist": "Joni James", 
+    "change": "+11", 
+    "lastPos": 36, 
+    "peakPos": 19, 
+    "rank": 25, 
+    "title": "There Goes My Heart", 
+    "weeks": 16
+},
+{
+    "artist": "The Four Esquires", 
+    "change": "+21", 
+    "lastPos": 47, 
+    "peakPos": 21, 
+    "rank": 26, 
+    "title": "Hideaway", 
+    "weeks": 17
+},
+{
+    "artist": "Jerry Wallace", 
+    "change": "-2", 
+    "lastPos": 25, 
+    "peakPos": 11, 
+    "rank": 27, 
+    "title": "How The Time Flies", 
+    "weeks": 16
+},
+{
+    "artist": "Tony Bennett", 
+    "change": "+2", 
+    "lastPos": 30, 
+    "peakPos": 20, 
+    "rank": 28, 
+    "title": "Firefly", 
+    "weeks": 13
+},
+{
+    "artist": "Harvey & The Moonglows", 
+    "change": "-7", 
+    "lastPos": 22, 
+    "peakPos": 22, 
+    "rank": 29, 
+    "title": "Ten Commandments Of Love", 
+    "weeks": 16
+},
+{
+    "artist": "Raymond Lefevre and His Orchestra", 
+    "change": "+37", 
+    "lastPos": 67, 
+    "peakPos": 30, 
+    "rank": 30, 
+    "title": "The Day The Rains Came", 
+    "weeks": 9
+},
+{
+    "artist": "Pat Boone", 
+    "change": "-3", 
+    "lastPos": 28, 
+    "peakPos": 23, 
+    "rank": 31, 
+    "title": "For My Good Fortune", 
+    "weeks": 11
+},
+{
+    "artist": "Clyde McPhatter", 
+    "change": "+6", 
+    "lastPos": 38, 
+    "peakPos": 6, 
+    "rank": 32, 
+    "title": "A Lover's Question", 
+    "weeks": 24
+},
+{
+    "artist": "The Five Blobs", 
+    "change": "+16", 
+    "lastPos": 49, 
+    "peakPos": 33, 
+    "rank": 33, 
+    "title": "The Blob", 
+    "weeks": 10
+},
+{
+    "artist": "Eddie Cochran", 
+    "change": "-14", 
+    "lastPos": 20, 
+    "peakPos": 8, 
+    "rank": 34, 
+    "title": "Summertime Blues", 
+    "weeks": 16
+},
+{
+    "artist": "Donnie Owens", 
+    "change": "+8", 
+    "lastPos": 43, 
+    "peakPos": 25, 
+    "rank": 35, 
+    "title": "Need You", 
+    "weeks": 15
+},
+{
+    "artist": "Jack Scott", 
+    "change": "-2", 
+    "lastPos": 34, 
+    "peakPos": 28, 
+    "rank": 36, 
+    "title": "With Your Love", 
+    "weeks": 10
+},
+{
+    "artist": "Cozy Cole", 
+    "change": "-10", 
+    "lastPos": 27, 
+    "peakPos": 27, 
+    "rank": 37, 
+    "title": "Topsy I", 
+    "weeks": 13
+},
+{
+    "artist": "The Everly Brothers", 
+    "change": "+4", 
+    "lastPos": 42, 
+    "peakPos": 10, 
+    "rank": 38, 
+    "title": "Devoted To You", 
+    "weeks": 14
+},
+{
+    "artist": "Gordon MacRae", 
+    "change": "-7", 
+    "lastPos": 32, 
+    "peakPos": 18, 
+    "rank": 39, 
+    "title": "The Secret", 
+    "weeks": 13
+},
+{
+    "artist": "Dion & The Belmonts", 
+    "change": "-5", 
+    "lastPos": 35, 
+    "peakPos": 24, 
+    "rank": 40, 
+    "title": "No One Knows", 
+    "weeks": 16
+},
+{
+    "artist": "Frankie Avalon", 
+    "change": "+28", 
+    "lastPos": 69, 
+    "peakPos": 15, 
+    "rank": 41, 
+    "title": "I'll Wait For You", 
+    "weeks": 17
+},
+{
+    "artist": "Johnny Cash", 
+    "change": "+3", 
+    "lastPos": 45, 
+    "peakPos": 38, 
+    "rank": 42, 
+    "title": "All Over Again", 
+    "weeks": 11
+},
+{
+    "artist": "The Royaltones", 
+    "change": "+7", 
+    "lastPos": 50, 
+    "peakPos": 17, 
+    "rank": 43, 
+    "title": "Poor Boy", 
+    "weeks": 17
+},
+{
+    "artist": "Connie Francis", 
+    "change": "+26", 
+    "lastPos": 70, 
+    "peakPos": 30, 
+    "rank": 44, 
+    "title": "Fallin'", 
+    "weeks": 10
+},
+{
+    "artist": "Dicky Doo And The Don'ts", 
+    "change": "-1", 
+    "lastPos": 44, 
+    "peakPos": 44, 
+    "rank": 45, 
+    "title": "Leave Me Alone (Let Me Cry)", 
+    "weeks": 9
+},
+{
+    "artist": "Eileen Rodgers", 
+    "change": "+7", 
+    "lastPos": 53, 
+    "peakPos": 26, 
+    "rank": 46, 
+    "title": "Treasure Of Your Love", 
+    "weeks": 15
+},
+{
+    "artist": "Jimmy Clanton", 
+    "change": "+21", 
+    "lastPos": 68, 
+    "peakPos": 25, 
+    "rank": 47, 
+    "title": "A Letter To An Angel", 
+    "weeks": 12
+},
+{
+    "artist": "Dale Hawkins", 
+    "change": "-9", 
+    "lastPos": 39, 
+    "peakPos": 32, 
+    "rank": 48, 
+    "title": "La-Do-Dada", 
+    "weeks": 12
+},
+{
+    "artist": "Perry Como", 
+    "change": "+11", 
+    "lastPos": 60, 
+    "peakPos": 33, 
+    "rank": 49, 
+    "title": "Love Makes The World Go 'Round", 
+    "weeks": 10
+},
+{
+    "artist": "Pat Boone", 
+    "change": "+22", 
+    "lastPos": 72, 
+    "peakPos": 34, 
+    "rank": 50, 
+    "title": "I'll Remember Tonight", 
+    "weeks": 11
+},
+{
+    "artist": "Little Richard", 
+    "change": "-10", 
+    "lastPos": 41, 
+    "peakPos": 41, 
+    "rank": 51, 
+    "title": "Baby Face", 
+    "weeks": 10
+},
+{
+    "artist": "Nat King Cole", 
+    "change": "+5", 
+    "lastPos": 57, 
+    "peakPos": 45, 
+    "rank": 52, 
+    "title": "Non Dimenticar (Don't Forget)", 
+    "weeks": 11
+},
+{
+    "artist": "Perez Prado And His Orchestra", 
+    "change": "+10", 
+    "lastPos": 63, 
+    "peakPos": 53, 
+    "rank": 53, 
+    "title": "Guaglione", 
+    "weeks": 9
+},
+{
+    "artist": "The Playmates", 
+    "change": "Re-Entry", 
+    "lastPos": 0, 
+    "peakPos": 4, 
+    "rank": 54, 
+    "title": "Beep Beep", 
+    "weeks": 15
+},
+{
+    "artist": "Ruth Brown", 
+    "change": "-31", 
+    "lastPos": 24, 
+    "peakPos": 24, 
+    "rank": 55, 
+    "title": "This Little Girl's Gone Rockin'", 
+    "weeks": 10
+},
+{
+    "artist": "Don Gibson", 
+    "change": "-10", 
+    "lastPos": 46, 
+    "peakPos": 46, 
+    "rank": 56, 
+    "title": "Give Myself A Party", 
+    "weeks": 10
+},
+{
+    "artist": "Andy Williams", 
+    "change": "-20", 
+    "lastPos": 37, 
+    "peakPos": 17, 
+    "rank": 57, 
+    "title": "Promise Me, Love", 
+    "weeks": 12
+},
+{
+    "artist": "Ritchie Valens", 
+    "change": "-2", 
+    "lastPos": 56, 
+    "peakPos": 42, 
+    "rank": 58, 
+    "title": "Come On, Let's Go", 
+    "weeks": 13
+},
+{
+    "artist": "Jimmy Clanton And His Rockets", 
+    "change": "-30", 
+    "lastPos": 29, 
+    "peakPos": 4, 
+    "rank": 59, 
+    "title": "Just A Dream", 
+    "weeks": 15
+},
+{
+    "artist": "Perry Como", 
+    "change": "+34", 
+    "lastPos": 94, 
+    "peakPos": 47, 
+    "rank": 60, 
+    "title": "Mandolins In The Moonlight", 
+    "weeks": 10
+},
+{
+    "artist": "Pat Boone", 
+    "change": "-2", 
+    "lastPos": 59, 
+    "peakPos": 31, 
+    "rank": 61, 
+    "title": "Gee, But It's Lonely", 
+    "weeks": 9
+},
+{
+    "artist": "Georgie Young", 
+    "change": "+3", 
+    "lastPos": 65, 
+    "peakPos": 58, 
+    "rank": 62, 
+    "title": "Nine More Miles (The Faster-Faster Song)", 
+    "weeks": 9
+},
+{
+    "artist": "Tommy Edwards", 
+    "change": "+25", 
+    "lastPos": 88, 
+    "peakPos": 15, 
+    "rank": 63, 
+    "title": "Love Is All We Need", 
+    "weeks": 16
+},
+{
+    "artist": "Patti Page", 
+    "change": "-16", 
+    "lastPos": 48, 
+    "peakPos": 39, 
+    "rank": 64, 
+    "title": "Fibbin'", 
+    "weeks": 9
+},
+{
+    "artist": "Elvis Presley", 
+    "change": "Re-Entry", 
+    "lastPos": 0, 
+    "peakPos": 8, 
+    "rank": 65, 
+    "title": "I Got Stung", 
+    "weeks": 16
+},
+{
+    "artist": "Don Gibson", 
+    "change": "0", 
+    "lastPos": 66, 
+    "peakPos": 58, 
+    "rank": 66, 
+    "title": "Look Who's Blue", 
+    "weeks": 10
+},
+{
+    "artist": "Doris Day", 
+    "change": "+30", 
+    "lastPos": 97, 
+    "peakPos": 43, 
+    "rank": 67, 
+    "title": "Tunnel Of Love", 
+    "weeks": 8
+},
+{
+    "artist": "Georgia Gibbs", 
+    "change": "-16", 
+    "lastPos": 52, 
+    "peakPos": 32, 
+    "rank": 68, 
+    "title": "The Hula Hoop Song", 
+    "weeks": 5
+},
+{
+    "artist": "Andy Rose", 
+    "change": "+12", 
+    "lastPos": 81, 
+    "peakPos": 69, 
+    "rank": 69, 
+    "title": "Just Young", 
+    "weeks": 7
+},
+{
+    "artist": "Johnny Cash", 
+    "change": "+13", 
+    "lastPos": 83, 
+    "peakPos": 52, 
+    "rank": 70, 
+    "title": "What Do I Care", 
+    "weeks": 8
+},
+{
+    "artist": "The Ames Brothers", 
+    "change": "0", 
+    "lastPos": 71, 
+    "peakPos": 45, 
+    "rank": 71, 
+    "title": "No One But You (In My Heart)", 
+    "weeks": 9
+},
+{
+    "artist": "Jerry Vale", 
+    "change": "+13", 
+    "lastPos": 85, 
+    "peakPos": 60, 
+    "rank": 72, 
+    "title": "Go Chase A Moonbeam", 
+    "weeks": 7
+},
+{
+    "artist": "The Quin-Tones", 
+    "change": "-9", 
+    "lastPos": 64, 
+    "peakPos": 20, 
+    "rank": 73, 
+    "title": "Down The Aisle Of Love", 
+    "weeks": 12
+},
+{
+    "artist": "Ed Townsend", 
+    "change": "+10", 
+    "lastPos": 84, 
+    "peakPos": 59, 
+    "rank": 74, 
+    "title": "When I Grow Too Old To Dream", 
+    "weeks": 7
+},
+{
+    "artist": "The Diamonds", 
+    "change": "+7", 
+    "lastPos": 82, 
+    "peakPos": 29, 
+    "rank": 75, 
+    "title": "Walking Along", 
+    "weeks": 12
+},
+{
+    "artist": "Frank Sinatra", 
+    "change": "+13", 
+    "lastPos": 89, 
+    "peakPos": 41, 
+    "rank": 76, 
+    "title": "Mr. Success", 
+    "weeks": 11
+},
+{
+    "artist": "Peggy Lee", 
+    "change": "Re-Entry", 
+    "lastPos": 0, 
+    "peakPos": 63, 
+    "rank": 77, 
+    "title": "Light Of Love", 
+    "weeks": 6
+},
+{
+    "artist": "The Platters", 
+    "change": "+2", 
+    "lastPos": 80, 
+    "peakPos": 42, 
+    "rank": 78, 
+    "title": "I Wish", 
+    "weeks": 10
+},
+{
+    "artist": "Sam Cooke", 
+    "change": "-39", 
+    "lastPos": 40, 
+    "peakPos": 33, 
+    "rank": 79, 
+    "title": "Win Your Love For Me", 
+    "weeks": 17
+},
+{
+    "artist": "Robert Mitchum", 
+    "change": "-6", 
+    "lastPos": 74, 
+    "peakPos": 62, 
+    "rank": 80, 
+    "title": "The Ballad Of Thunder Road", 
+    "weeks": 21
+},
+{
+    "artist": "Tommy Sands And The Raiders", 
+    "change": "+6", 
+    "lastPos": 87, 
+    "peakPos": 50, 
+    "rank": 81, 
+    "title": "Blue Ribbon Baby", 
+    "weeks": 11
+},
+{
+    "artist": "Betty Johnson", 
+    "change": "-4", 
+    "lastPos": 78, 
+    "peakPos": 56, 
+    "rank": 82, 
+    "title": "Hoopa Hoola", 
+    "weeks": 5
+},
+{
+    "artist": "Billy Vaughn And His Orchestra", 
+    "change": "+3", 
+    "lastPos": 86, 
+    "peakPos": 44, 
+    "rank": 83, 
+    "title": "Cimarron (Roll On)", 
+    "weeks": 10
+},
+{
+    "artist": "Paul Anka", 
+    "change": "+14", 
+    "lastPos": 98, 
+    "peakPos": 80, 
+    "rank": 84, 
+    "title": "Just Young", 
+    "weeks": 5
+},
+{
+    "artist": "Perez Prado And His Orchestra", 
+    "change": "-12", 
+    "lastPos": 73, 
+    "peakPos": 2, 
+    "rank": 85, 
+    "title": "Patricia", 
+    "weeks": 14
+},
+{
+    "artist": "The Four Lads", 
+    "change": "Re-Entry", 
+    "lastPos": 0, 
+    "peakPos": 32, 
+    "rank": 86, 
+    "title": "The Mocking Bird", 
+    "weeks": 10
+},
+{
+    "artist": "Tab Hunter", 
+    "change": "+3", 
+    "lastPos": 90, 
+    "peakPos": 62, 
+    "rank": 87, 
+    "title": "Jealous Heart", 
+    "weeks": 10
+},
+{
+    "artist": "Duane Eddy His Twangy Guitar And The Rebels", 
+    "change": "Re-Entry", 
+    "lastPos": 0, 
+    "peakPos": 15, 
+    "rank": 88, 
+    "title": "Cannonball", 
+    "weeks": 12
+},
+{
+    "artist": "Johnny Cash And The Tennessee Two", 
+    "change": "-12", 
+    "lastPos": 77, 
+    "peakPos": 24, 
+    "rank": 89, 
+    "title": "The Ways Of A Woman In Love", 
+    "weeks": 11
+},
+{
+    "artist": "Buddy Knox with the Rhythm Orchids", 
+    "change": "-14", 
+    "lastPos": 76, 
+    "peakPos": 22, 
+    "rank": 90, 
+    "title": "Somebody Touched Me", 
+    "weeks": 14
+},
+{
+    "artist": "Teresa Brewer", 
+    "change": "-36", 
+    "lastPos": 55, 
+    "peakPos": 38, 
+    "rank": 91, 
+    "title": "The Hula Hoop Song", 
+    "weeks": 5
+},
+{
+    "artist": "Johnny Tillotson", 
+    "change": "Re-Entry", 
+    "lastPos": 0, 
+    "peakPos": 35, 
+    "rank": 92, 
+    "title": "Dreamy Eyes", 
+    "weeks": 23
+},
+{
+    "artist": "Tommy Edwards", 
+    "change": "-32", 
+    "lastPos": 61, 
+    "peakPos": 61, 
+    "rank": 93, 
+    "title": "Please Love Me Forever", 
+    "weeks": 3
+},
+{
+    "artist": "Jack Scott", 
+    "change": "-32", 
+    "lastPos": 62, 
+    "peakPos": 3, 
+    "rank": 94, 
+    "title": "My True Love", 
+    "weeks": 14
+},
+{
+    "artist": "The Slades", 
+    "change": "-3", 
+    "lastPos": 92, 
+    "peakPos": 42, 
+    "rank": 95, 
+    "title": "You Cheated", 
+    "weeks": 12
+},
+{
+    "artist": "The Platters", 
+    "change": "Re-Entry", 
+    "lastPos": 0, 
+    "peakPos": 93, 
+    "rank": 96, 
+    "title": "It's Raining Outside", 
+    "weeks": 2
+},
+{
+    "artist": "Bobby Hendricks", 
+    "change": "-46", 
+    "lastPos": 51, 
+    "peakPos": 25, 
+    "rank": 97, 
+    "title": "Itchy Twitchy Feeling", 
+    "weeks": 14
+},
+{
+    "artist": "Jimmy Clanton", 
+    "change": "Re-Entry", 
+    "lastPos": 0, 
+    "peakPos": 38, 
+    "rank": 98, 
+    "title": "A Part Of Me", 
+    "weeks": 7
+},
+{
+    "artist": "Poni-Tails", 
+    "change": "-45", 
+    "lastPos": 54, 
+    "peakPos": 7, 
+    "rank": 99, 
+    "title": "Born Too Late", 
+    "weeks": 14
+},
+{
+    "artist": "Louis Prima And Keely Smith", 
+    "change": "Re-Entry", 
+    "lastPos": 0, 
+    "peakPos": 18, 
+    "rank": 100, 
+    "title": "That Old Black Magic", 
+    "weeks": 13
+}]

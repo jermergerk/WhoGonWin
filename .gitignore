@@ -1,0 +1,8 @@
+# Ignore all these files
+/Billboard/src/billboard-charts/billboard.py.egg-info
+*.pyc
+/Billboard/src/billboard-charts/build
+/Billboard/src/billboard-charts/dist
+/Billboard/src/billboard-charts/LICENSE
+/Billboard/src/billboard-charts/tox.ini
+/Billboard/src/billboard-charts/upload-to-pypi

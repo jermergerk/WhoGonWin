@@ -1,0 +1,901 @@
+[
+{
+    "artist": "Terror Squad", 
+    "change": "0", 
+    "lastPos": 1, 
+    "peakPos": 1, 
+    "rank": 1, 
+    "title": "Lean Back", 
+    "weeks": 11
+},
+{
+    "artist": "Lil' Flip Featuring Lea", 
+    "change": "0", 
+    "lastPos": 2, 
+    "peakPos": 2, 
+    "rank": 2, 
+    "title": "Sunshine", 
+    "weeks": 12
+},
+{
+    "artist": "Ciara Featuring Petey Pablo", 
+    "change": "0", 
+    "lastPos": 3, 
+    "peakPos": 3, 
+    "rank": 3, 
+    "title": "Goodies", 
+    "weeks": 11
+},
+{
+    "artist": "Nelly Featuring Jaheim", 
+    "change": "+3", 
+    "lastPos": 7, 
+    "peakPos": 4, 
+    "rank": 4, 
+    "title": "My Place", 
+    "weeks": 7
+},
+{
+    "artist": "Kevin Lyttle Featuring Spragga Benz", 
+    "change": "0", 
+    "lastPos": 5, 
+    "peakPos": 4, 
+    "rank": 5, 
+    "title": "Turn Me On", 
+    "weeks": 16
+},
+{
+    "artist": "Juvenile Featuring Soulja Slim", 
+    "change": "-2", 
+    "lastPos": 4, 
+    "peakPos": 1, 
+    "rank": 6, 
+    "title": "Slow Motion", 
+    "weeks": 19
+},
+{
+    "artist": "Christina Milian", 
+    "change": "-1", 
+    "lastPos": 6, 
+    "peakPos": 5, 
+    "rank": 7, 
+    "title": "Dip It Low", 
+    "weeks": 20
+},
+{
+    "artist": "Ashlee Simpson", 
+    "change": "+1", 
+    "lastPos": 9, 
+    "peakPos": 8, 
+    "rank": 8, 
+    "title": "Pieces Of Me", 
+    "weeks": 10
+},
+{
+    "artist": "Nina Sky Featuring Jabba", 
+    "change": "+1", 
+    "lastPos": 10, 
+    "peakPos": 4, 
+    "rank": 9, 
+    "title": "Move Ya Body", 
+    "weeks": 19
+},
+{
+    "artist": "Alicia Keys", 
+    "change": "+1", 
+    "lastPos": 11, 
+    "peakPos": 4, 
+    "rank": 10, 
+    "title": "If I Ain't Got You", 
+    "weeks": 27
+},
+{
+    "artist": "Usher", 
+    "change": "-3", 
+    "lastPos": 8, 
+    "peakPos": 1, 
+    "rank": 11, 
+    "title": "Confessions Part II", 
+    "weeks": 19
+},
+{
+    "artist": "Houston Featuring Chingy, Nate Dogg & I-20", 
+    "change": "0", 
+    "lastPos": 12, 
+    "peakPos": 11, 
+    "rank": 12, 
+    "title": "I Like That", 
+    "weeks": 12
+},
+{
+    "artist": "Alicia Keys Featuring Tony! Toni! Tone!", 
+    "change": "+2", 
+    "lastPos": 15, 
+    "peakPos": 13, 
+    "rank": 13, 
+    "title": "Diary", 
+    "weeks": 12
+},
+{
+    "artist": "Maroon5", 
+    "change": "0", 
+    "lastPos": 14, 
+    "peakPos": 14, 
+    "rank": 14, 
+    "title": "She Will Be Loved", 
+    "weeks": 7
+},
+{
+    "artist": "Hoobastank", 
+    "change": "-2", 
+    "lastPos": 13, 
+    "peakPos": 2, 
+    "rank": 15, 
+    "title": "The Reason", 
+    "weeks": 25
+},
+{
+    "artist": "Jadakiss Featuring Anthony Hamilton", 
+    "change": "0", 
+    "lastPos": 16, 
+    "peakPos": 16, 
+    "rank": 16, 
+    "title": "Why?", 
+    "weeks": 8
+},
+{
+    "artist": "Akon Featuring Styles P.", 
+    "change": "+2", 
+    "lastPos": 19, 
+    "peakPos": 17, 
+    "rank": 17, 
+    "title": "Locked Up", 
+    "weeks": 13
+},
+{
+    "artist": "JoJo", 
+    "change": "-1", 
+    "lastPos": 17, 
+    "peakPos": 12, 
+    "rank": 18, 
+    "title": "Leave (Get Out)", 
+    "weeks": 22
+},
+{
+    "artist": "LL Cool J", 
+    "change": "+8", 
+    "lastPos": 27, 
+    "peakPos": 19, 
+    "rank": 19, 
+    "title": "Headsprung", 
+    "weeks": 9
+},
+{
+    "artist": "Kanye West", 
+    "change": "-2", 
+    "lastPos": 18, 
+    "peakPos": 11, 
+    "rank": 20, 
+    "title": "Jesus Walks", 
+    "weeks": 18
+},
+{
+    "artist": "Los Lonely Boys", 
+    "change": "0", 
+    "lastPos": 21, 
+    "peakPos": 20, 
+    "rank": 21, 
+    "title": "Heaven", 
+    "weeks": 17
+},
+{
+    "artist": "Maroon5", 
+    "change": "-2", 
+    "lastPos": 20, 
+    "peakPos": 5, 
+    "rank": 22, 
+    "title": "This Love", 
+    "weeks": 30
+},
+{
+    "artist": "Avril Lavigne", 
+    "change": "+8", 
+    "lastPos": 31, 
+    "peakPos": 23, 
+    "rank": 23, 
+    "title": "My Happy Ending", 
+    "weeks": 6
+},
+{
+    "artist": "Switchfoot", 
+    "change": "-2", 
+    "lastPos": 22, 
+    "peakPos": 18, 
+    "rank": 24, 
+    "title": "Meant To Live", 
+    "weeks": 23
+},
+{
+    "artist": "Linkin Park", 
+    "change": "+4", 
+    "lastPos": 29, 
+    "peakPos": 25, 
+    "rank": 25, 
+    "title": "Breaking The Habit", 
+    "weeks": 7
+},
+{
+    "artist": "Usher", 
+    "change": "-3", 
+    "lastPos": 23, 
+    "peakPos": 1, 
+    "rank": 26, 
+    "title": "Burn", 
+    "weeks": 26
+},
+{
+    "artist": "Twista Featuring R. Kelly", 
+    "change": "-2", 
+    "lastPos": 25, 
+    "peakPos": 25, 
+    "rank": 27, 
+    "title": "So Sexy", 
+    "weeks": 11
+},
+{
+    "artist": "Lloyd Featuring Ashanti", 
+    "change": "-2", 
+    "lastPos": 26, 
+    "peakPos": 24, 
+    "rank": 28, 
+    "title": "Southside", 
+    "weeks": 16
+},
+{
+    "artist": "Usher Featuring Lil Jon & Ludacris", 
+    "change": "-5", 
+    "lastPos": 24, 
+    "peakPos": 1, 
+    "rank": 29, 
+    "title": "Yeah!", 
+    "weeks": 35
+},
+{
+    "artist": "Black Eyed Peas", 
+    "change": "+4", 
+    "lastPos": 34, 
+    "peakPos": 30, 
+    "rank": 30, 
+    "title": "Let's Get It Started", 
+    "weeks": 5
+},
+{
+    "artist": "Finger Eleven", 
+    "change": "+7", 
+    "lastPos": 38, 
+    "peakPos": 31, 
+    "rank": 31, 
+    "title": "One Thing", 
+    "weeks": 7
+},
+{
+    "artist": "Tim McGraw", 
+    "change": "0", 
+    "lastPos": 32, 
+    "peakPos": 30, 
+    "rank": 32, 
+    "title": "Live Like You Were Dying", 
+    "weeks": 13
+},
+{
+    "artist": "Monica", 
+    "change": "-5", 
+    "lastPos": 28, 
+    "peakPos": 19, 
+    "rank": 33, 
+    "title": "U Should've Known Better", 
+    "weeks": 14
+},
+{
+    "artist": "Young Buck", 
+    "change": "+3", 
+    "lastPos": 37, 
+    "peakPos": 34, 
+    "rank": 34, 
+    "title": "Let Me In", 
+    "weeks": 7
+},
+{
+    "artist": "T.I.", 
+    "change": "+4", 
+    "lastPos": 39, 
+    "peakPos": 35, 
+    "rank": 35, 
+    "title": "Let's Get Away", 
+    "weeks": 9
+},
+{
+    "artist": "Keith Urban", 
+    "change": "+4", 
+    "lastPos": 40, 
+    "peakPos": 36, 
+    "rank": 36, 
+    "title": "Days Go By", 
+    "weeks": 7
+},
+{
+    "artist": "Petey Pablo", 
+    "change": "-1", 
+    "lastPos": 36, 
+    "peakPos": 7, 
+    "rank": 37, 
+    "title": "Freek-A-Leek", 
+    "weeks": 36
+},
+{
+    "artist": "Ryan Cabrera", 
+    "change": "+5", 
+    "lastPos": 43, 
+    "peakPos": 38, 
+    "rank": 38, 
+    "title": "On The Way Down", 
+    "weeks": 6
+},
+{
+    "artist": "Kenny Chesney", 
+    "change": "-6", 
+    "lastPos": 33, 
+    "peakPos": 32, 
+    "rank": 39, 
+    "title": "I Go Back", 
+    "weeks": 13
+},
+{
+    "artist": "Terri Clark", 
+    "change": "+4", 
+    "lastPos": 44, 
+    "peakPos": 40, 
+    "rank": 40, 
+    "title": "Girls Lie Too", 
+    "weeks": 9
+},
+{
+    "artist": "Counting Crows", 
+    "change": "0", 
+    "lastPos": 41, 
+    "peakPos": 39, 
+    "rank": 41, 
+    "title": "Accidentally In Love", 
+    "weeks": 11
+},
+{
+    "artist": "Brad Paisley Featuring Alison Krauss", 
+    "change": "0", 
+    "lastPos": 42, 
+    "peakPos": 41, 
+    "rank": 42, 
+    "title": "Whiskey Lullaby", 
+    "weeks": 12
+},
+{
+    "artist": "Lil Scrappy", 
+    "change": "+3", 
+    "lastPos": 46, 
+    "peakPos": 43, 
+    "rank": 43, 
+    "title": "No Problem", 
+    "weeks": 8
+},
+{
+    "artist": "Lloyd Banks", 
+    "change": "-14", 
+    "lastPos": 30, 
+    "peakPos": 8, 
+    "rank": 44, 
+    "title": "On Fire", 
+    "weeks": 17
+},
+{
+    "artist": "D12", 
+    "change": "-10", 
+    "lastPos": 35, 
+    "peakPos": 27, 
+    "rank": 45, 
+    "title": "How Come", 
+    "weeks": 10
+},
+{
+    "artist": "Sara Evans", 
+    "change": "+3", 
+    "lastPos": 49, 
+    "peakPos": 46, 
+    "rank": 46, 
+    "title": "Suds In The Bucket", 
+    "weeks": 5
+},
+{
+    "artist": "Mario Winans Featuring Enya & P. Diddy", 
+    "change": "0", 
+    "lastPos": 47, 
+    "peakPos": 2, 
+    "rank": 47, 
+    "title": "I Don't Wanna Know", 
+    "weeks": 29
+},
+{
+    "artist": "Gretchen Wilson", 
+    "change": "+4", 
+    "lastPos": 52, 
+    "peakPos": 48, 
+    "rank": 48, 
+    "title": "Here For The Party", 
+    "weeks": 5
+},
+{
+    "artist": "Andy Griggs", 
+    "change": "+1", 
+    "lastPos": 50, 
+    "peakPos": 49, 
+    "rank": 49, 
+    "title": "She Thinks She Needs Me", 
+    "weeks": 6
+},
+{
+    "artist": "Alan Jackson", 
+    "change": "+1", 
+    "lastPos": 51, 
+    "peakPos": 50, 
+    "rank": 50, 
+    "title": "Too Much Of A Good Thing", 
+    "weeks": 5
+},
+{
+    "artist": "Mase Featuring P. Diddy", 
+    "change": "+13", 
+    "lastPos": 64, 
+    "peakPos": 51, 
+    "rank": 51, 
+    "title": "Breathe, Stretch, Shake", 
+    "weeks": 2
+},
+{
+    "artist": "George Strait", 
+    "change": "+2", 
+    "lastPos": 54, 
+    "peakPos": 52, 
+    "rank": 52, 
+    "title": "I Hate Everything", 
+    "weeks": 4
+},
+{
+    "artist": "Ying Yang Twins Featuring Trick Daddy", 
+    "change": "+3", 
+    "lastPos": 56, 
+    "peakPos": 30, 
+    "rank": 53, 
+    "title": "Whats Happnin!", 
+    "weeks": 18
+},
+{
+    "artist": "Kelly Clarkson", 
+    "change": "+6", 
+    "lastPos": 60, 
+    "peakPos": 54, 
+    "rank": 54, 
+    "title": "Breakaway", 
+    "weeks": 2
+},
+{
+    "artist": "Three Days Grace", 
+    "change": "0", 
+    "lastPos": 55, 
+    "peakPos": 55, 
+    "rank": 55, 
+    "title": "Just Like You", 
+    "weeks": 6
+},
+{
+    "artist": "Big & Rich", 
+    "change": "+1", 
+    "lastPos": 57, 
+    "peakPos": 56, 
+    "rank": 56, 
+    "title": "Save A Horse (Ride A Cowboy)", 
+    "weeks": 6
+},
+{
+    "artist": "Josh Gracin", 
+    "change": "-12", 
+    "lastPos": 45, 
+    "peakPos": 45, 
+    "rank": 57, 
+    "title": "I Want To Live", 
+    "weeks": 10
+},
+{
+    "artist": "Seether Featuring Amy Lee", 
+    "change": "Hot Shot Debut", 
+    "lastPos": 0, 
+    "peakPos": 58, 
+    "rank": 58, 
+    "title": "Broken", 
+    "weeks": 1
+},
+{
+    "artist": "Toby Keith", 
+    "change": "+2", 
+    "lastPos": 61, 
+    "peakPos": 51, 
+    "rank": 59, 
+    "title": "Stays In Mexico", 
+    "weeks": 2
+},
+{
+    "artist": "Nickelback", 
+    "change": "-12", 
+    "lastPos": 48, 
+    "peakPos": 48, 
+    "rank": 60, 
+    "title": "Feelin' Way Too Damn Good", 
+    "weeks": 10
+},
+{
+    "artist": "R. Kelly", 
+    "change": "+5", 
+    "lastPos": 66, 
+    "peakPos": 57, 
+    "rank": 61, 
+    "title": "U Saved Me", 
+    "weeks": 6
+},
+{
+    "artist": "Rascal Flatts", 
+    "change": "+7", 
+    "lastPos": 69, 
+    "peakPos": 62, 
+    "rank": 62, 
+    "title": "Feels Like Today", 
+    "weeks": 3
+},
+{
+    "artist": "Nelly", 
+    "change": "New", 
+    "lastPos": 0, 
+    "peakPos": 63, 
+    "rank": 63, 
+    "title": "Flap Your Wings", 
+    "weeks": 1
+},
+{
+    "artist": "311", 
+    "change": "-1", 
+    "lastPos": 63, 
+    "peakPos": 59, 
+    "rank": 64, 
+    "title": "Love Song", 
+    "weeks": 19
+},
+{
+    "artist": "Brooks & Dunn", 
+    "change": "+11", 
+    "lastPos": 76, 
+    "peakPos": 65, 
+    "rank": 65, 
+    "title": "That's What It's All About", 
+    "weeks": 2
+},
+{
+    "artist": "Franz Ferdinand", 
+    "change": "+5", 
+    "lastPos": 71, 
+    "peakPos": 66, 
+    "rank": 66, 
+    "title": "Take Me Out", 
+    "weeks": 10
+},
+{
+    "artist": "Juvenile, Wacko & Skip", 
+    "change": "0", 
+    "lastPos": 67, 
+    "peakPos": 67, 
+    "rank": 67, 
+    "title": "Nolia Clap", 
+    "weeks": 2
+},
+{
+    "artist": "Modest Mouse", 
+    "change": "+7", 
+    "lastPos": 75, 
+    "peakPos": 68, 
+    "rank": 68, 
+    "title": "Float On", 
+    "weeks": 15
+},
+{
+    "artist": "3 Doors Down", 
+    "change": "-7", 
+    "lastPos": 62, 
+    "peakPos": 69, 
+    "rank": 69, 
+    "title": "Away From The Sun", 
+    "weeks": 10
+},
+{
+    "artist": "Green Day", 
+    "change": "+2", 
+    "lastPos": 72, 
+    "peakPos": 70, 
+    "rank": 70, 
+    "title": "American Idiot", 
+    "weeks": 3
+},
+{
+    "artist": "Phil Vassar", 
+    "change": "New", 
+    "lastPos": 0, 
+    "peakPos": 71, 
+    "rank": 71, 
+    "title": "In A Real Love", 
+    "weeks": 1
+},
+{
+    "artist": "Anthony Hamilton", 
+    "change": "New", 
+    "lastPos": 0, 
+    "peakPos": 72, 
+    "rank": 72, 
+    "title": "Charlene", 
+    "weeks": 1
+},
+{
+    "artist": "Billy Currington", 
+    "change": "-14", 
+    "lastPos": 59, 
+    "peakPos": 50, 
+    "rank": 73, 
+    "title": "I Got A Feelin'", 
+    "weeks": 11
+},
+{
+    "artist": "Pitbull Featuring Lil Jon", 
+    "change": "-16", 
+    "lastPos": 58, 
+    "peakPos": 32, 
+    "rank": 74, 
+    "title": "Culo", 
+    "weeks": 20
+},
+{
+    "artist": "Anita Baker", 
+    "change": "+3", 
+    "lastPos": 78, 
+    "peakPos": 74, 
+    "rank": 75, 
+    "title": "You're My Everything", 
+    "weeks": 3
+},
+{
+    "artist": "Joe Nichols", 
+    "change": "-6", 
+    "lastPos": 70, 
+    "peakPos": 70, 
+    "rank": 76, 
+    "title": "If Nobody Believed In You", 
+    "weeks": 3
+},
+{
+    "artist": "Prince", 
+    "change": "0", 
+    "lastPos": 77, 
+    "peakPos": 75, 
+    "rank": 77, 
+    "title": "Call My Name", 
+    "weeks": 3
+},
+{
+    "artist": "Shawnna Featuring Ludacris", 
+    "change": "-10", 
+    "lastPos": 68, 
+    "peakPos": 68, 
+    "rank": 78, 
+    "title": "Shake That Sh**", 
+    "weeks": 6
+},
+{
+    "artist": "Velvet Revolver", 
+    "change": "-6", 
+    "lastPos": 73, 
+    "peakPos": 56, 
+    "rank": 79, 
+    "title": "Slither", 
+    "weeks": 17
+},
+{
+    "artist": "Britney Spears", 
+    "change": "-27", 
+    "lastPos": 53, 
+    "peakPos": 15, 
+    "rank": 80, 
+    "title": "Everytime", 
+    "weeks": 16
+},
+{
+    "artist": "Reba McEntire", 
+    "change": "-7", 
+    "lastPos": 74, 
+    "peakPos": 81, 
+    "rank": 81, 
+    "title": "Somebody", 
+    "weeks": 13
+},
+{
+    "artist": "Slum Village Featuring Kanye West & John Legend", 
+    "change": "-17", 
+    "lastPos": 65, 
+    "peakPos": 55, 
+    "rank": 82, 
+    "title": "Selfish", 
+    "weeks": 16
+},
+{
+    "artist": "Julie Roberts", 
+    "change": "-2", 
+    "lastPos": 81, 
+    "peakPos": 81, 
+    "rank": 83, 
+    "title": "Break Down Here", 
+    "weeks": 8
+},
+{
+    "artist": "N.O.R.E., GemStar, Big Mato, Nina Sky & Tego Calderon", 
+    "change": "+7", 
+    "lastPos": 91, 
+    "peakPos": 84, 
+    "rank": 84, 
+    "title": "Oye Mi Canto", 
+    "weeks": 2
+},
+{
+    "artist": "The Killers", 
+    "change": "New", 
+    "lastPos": 0, 
+    "peakPos": 85, 
+    "rank": 85, 
+    "title": "Somebody Told Me", 
+    "weeks": 1
+},
+{
+    "artist": "Teena Marie Featuring Baby", 
+    "change": "-4", 
+    "lastPos": 82, 
+    "peakPos": 70, 
+    "rank": 86, 
+    "title": "Still In Love", 
+    "weeks": 15
+},
+{
+    "artist": "Britney Spears", 
+    "change": "-8", 
+    "lastPos": 79, 
+    "peakPos": 79, 
+    "rank": 87, 
+    "title": "Outrageous", 
+    "weeks": 4
+},
+{
+    "artist": "Fantasia", 
+    "change": "-8", 
+    "lastPos": 80, 
+    "peakPos": 1, 
+    "rank": 88, 
+    "title": "I Believe", 
+    "weeks": 9
+},
+{
+    "artist": "Brandy", 
+    "change": "-4", 
+    "lastPos": 85, 
+    "peakPos": 85, 
+    "rank": 89, 
+    "title": "Who Is She 2 U", 
+    "weeks": 2
+},
+{
+    "artist": "Yellowcard", 
+    "change": "-6", 
+    "lastPos": 84, 
+    "peakPos": 37, 
+    "rank": 90, 
+    "title": "Ocean Avenue", 
+    "weeks": 17
+},
+{
+    "artist": "Toby Keith", 
+    "change": "-3", 
+    "lastPos": 88, 
+    "peakPos": 31, 
+    "rank": 91, 
+    "title": "Whiskey Girl", 
+    "weeks": 19
+},
+{
+    "artist": "New Edition", 
+    "change": "+3", 
+    "lastPos": 95, 
+    "peakPos": 92, 
+    "rank": 92, 
+    "title": "Hot 2Nite", 
+    "weeks": 4
+},
+{
+    "artist": "Crossfade", 
+    "change": "-1", 
+    "lastPos": 92, 
+    "peakPos": 92, 
+    "rank": 93, 
+    "title": "Cold", 
+    "weeks": 5
+},
+{
+    "artist": "Play-N-Skillz Featuring Krayzie Bone & Adina Howard", 
+    "change": "-8", 
+    "lastPos": 86, 
+    "peakPos": 69, 
+    "rank": 94, 
+    "title": "Freaks", 
+    "weeks": 9
+},
+{
+    "artist": "Beenie Man", 
+    "change": "New", 
+    "lastPos": 0, 
+    "peakPos": 95, 
+    "rank": 95, 
+    "title": "King Of The Dancehall", 
+    "weeks": 1
+},
+{
+    "artist": "Dem Franchize Boyz", 
+    "change": "New", 
+    "lastPos": 0, 
+    "peakPos": 96, 
+    "rank": 96, 
+    "title": "White Tee's", 
+    "weeks": 1
+},
+{
+    "artist": "Mynt Featuring Kim Sozzi", 
+    "change": "New", 
+    "lastPos": 0, 
+    "peakPos": 97, 
+    "rank": 97, 
+    "title": "How Did You Know?", 
+    "weeks": 1
+},
+{
+    "artist": "Mis-Teeq", 
+    "change": "-11", 
+    "lastPos": 87, 
+    "peakPos": 35, 
+    "rank": 98, 
+    "title": "Scandalous", 
+    "weeks": 16
+},
+{
+    "artist": "David Lee Murphy", 
+    "change": "-5", 
+    "lastPos": 94, 
+    "peakPos": 44, 
+    "rank": 99, 
+    "title": "Loco", 
+    "weeks": 18
+},
+{
+    "artist": "Crime Mob Featuring Lil Scrappy", 
+    "change": "-4", 
+    "lastPos": 96, 
+    "peakPos": 96, 
+    "rank": 100, 
+    "title": "Knuck If You Buck", 
+    "weeks": 3
+}]

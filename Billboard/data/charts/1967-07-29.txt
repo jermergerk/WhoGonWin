@@ -1,0 +1,901 @@
+[
+{
+    "artist": "The Doors", 
+    "change": "+2", 
+    "lastPos": 3, 
+    "peakPos": 1, 
+    "rank": 1, 
+    "title": "Light My Fire", 
+    "weeks": 23
+},
+{
+    "artist": "Stevie Wonder", 
+    "change": "+4", 
+    "lastPos": 6, 
+    "peakPos": 2, 
+    "rank": 2, 
+    "title": "I Was Made To Love Her", 
+    "weeks": 15
+},
+{
+    "artist": "The Association", 
+    "change": "-2", 
+    "lastPos": 1, 
+    "peakPos": 1, 
+    "rank": 3, 
+    "title": "Windy", 
+    "weeks": 14
+},
+{
+    "artist": "Frankie Valli", 
+    "change": "-2", 
+    "lastPos": 2, 
+    "peakPos": 2, 
+    "rank": 4, 
+    "title": "Can't Take My Eyes Off You", 
+    "weeks": 16
+},
+{
+    "artist": "Procol Harum", 
+    "change": "+3", 
+    "lastPos": 8, 
+    "peakPos": 5, 
+    "rank": 5, 
+    "title": "A Whiter Shade Of Pale", 
+    "weeks": 12
+},
+{
+    "artist": "The Music Explosion", 
+    "change": "-1", 
+    "lastPos": 5, 
+    "peakPos": 2, 
+    "rank": 6, 
+    "title": "Little Bit O' Soul", 
+    "weeks": 16
+},
+{
+    "artist": "The Buckinghams", 
+    "change": "+4", 
+    "lastPos": 11, 
+    "peakPos": 5, 
+    "rank": 7, 
+    "title": "Mercy, Mercy, Mercy", 
+    "weeks": 12
+},
+{
+    "artist": "Jefferson Airplane", 
+    "change": "+4", 
+    "lastPos": 12, 
+    "peakPos": 8, 
+    "rank": 8, 
+    "title": "White Rabbit", 
+    "weeks": 10
+},
+{
+    "artist": "The 5th Dimension", 
+    "change": "-2", 
+    "lastPos": 7, 
+    "peakPos": 7, 
+    "rank": 9, 
+    "title": "Up -- Up And Away", 
+    "weeks": 12
+},
+{
+    "artist": "The 4 Seasons Featuring the Sound of Frankie Valli", 
+    "change": "-1", 
+    "lastPos": 9, 
+    "peakPos": 9, 
+    "rank": 10, 
+    "title": "C'mon Marianne", 
+    "weeks": 10
+},
+{
+    "artist": "Scott McKenzie", 
+    "change": "-7", 
+    "lastPos": 4, 
+    "peakPos": 4, 
+    "rank": 11, 
+    "title": "San Francisco (Be Sure To Wear Flowers In Your Hair)", 
+    "weeks": 12
+},
+{
+    "artist": "Sandy Posey", 
+    "change": "+5", 
+    "lastPos": 17, 
+    "peakPos": 12, 
+    "rank": 12, 
+    "title": "I Take It Back", 
+    "weeks": 12
+},
+{
+    "artist": "Every Mothers' Son", 
+    "change": "-3", 
+    "lastPos": 10, 
+    "peakPos": 6, 
+    "rank": 13, 
+    "title": "Come On Down To My Boat", 
+    "weeks": 15
+},
+{
+    "artist": "Nancy Sinatra & Lee Hazlewood", 
+    "change": "+2", 
+    "lastPos": 16, 
+    "peakPos": 14, 
+    "rank": 14, 
+    "title": "Jackson", 
+    "weeks": 9
+},
+{
+    "artist": "Ray Charles", 
+    "change": "0", 
+    "lastPos": 15, 
+    "peakPos": 15, 
+    "rank": 15, 
+    "title": "Here We Go Again", 
+    "weeks": 12
+},
+{
+    "artist": "The Hollies", 
+    "change": "+7", 
+    "lastPos": 23, 
+    "peakPos": 9, 
+    "rank": 16, 
+    "title": "Carrie-Anne", 
+    "weeks": 13
+},
+{
+    "artist": "The Tremeloes", 
+    "change": "+9", 
+    "lastPos": 26, 
+    "peakPos": 11, 
+    "rank": 17, 
+    "title": "Silence Is Golden", 
+    "weeks": 14
+},
+{
+    "artist": "Bar-Kays", 
+    "change": "+2", 
+    "lastPos": 20, 
+    "peakPos": 17, 
+    "rank": 18, 
+    "title": "Soul Finger", 
+    "weeks": 15
+},
+{
+    "artist": "The Young Rascals", 
+    "change": "+12", 
+    "lastPos": 31, 
+    "peakPos": 10, 
+    "rank": 19, 
+    "title": "A Girl Like You", 
+    "weeks": 9
+},
+{
+    "artist": "Engelbert Humperdinck", 
+    "change": "+7", 
+    "lastPos": 27, 
+    "peakPos": 20, 
+    "rank": 20, 
+    "title": "There Goes My Everything", 
+    "weeks": 7
+},
+{
+    "artist": "Bettye Swann", 
+    "change": "0", 
+    "lastPos": 21, 
+    "peakPos": 21, 
+    "rank": 21, 
+    "title": "Make Me Yours", 
+    "weeks": 14
+},
+{
+    "artist": "Peaches & Herb", 
+    "change": "0", 
+    "lastPos": 22, 
+    "peakPos": 20, 
+    "rank": 22, 
+    "title": "For Your Love", 
+    "weeks": 8
+},
+{
+    "artist": "Smokey Robinson & The Miracles", 
+    "change": "+2", 
+    "lastPos": 25, 
+    "peakPos": 23, 
+    "rank": 23, 
+    "title": "More Love", 
+    "weeks": 11
+},
+{
+    "artist": "The Monkees", 
+    "change": "+27", 
+    "lastPos": 51, 
+    "peakPos": 3, 
+    "rank": 24, 
+    "title": "Pleasant Valley Sunday", 
+    "weeks": 10
+},
+{
+    "artist": "Tommy James And The Shondells", 
+    "change": "+5", 
+    "lastPos": 30, 
+    "peakPos": 25, 
+    "rank": 25, 
+    "title": "I Like The Way", 
+    "weeks": 7
+},
+{
+    "artist": "Janis Ian", 
+    "change": "-12", 
+    "lastPos": 14, 
+    "peakPos": 14, 
+    "rank": 26, 
+    "title": "Society's Child (Baby I've Been Thinking)", 
+    "weeks": 12
+},
+{
+    "artist": "Petula Clark", 
+    "change": "-14", 
+    "lastPos": 13, 
+    "peakPos": 5, 
+    "rank": 27, 
+    "title": "Don't Sleep In The Subway", 
+    "weeks": 10
+},
+{
+    "artist": "The Happenings", 
+    "change": "+5", 
+    "lastPos": 33, 
+    "peakPos": 13, 
+    "rank": 28, 
+    "title": "My Mammy", 
+    "weeks": 8
+},
+{
+    "artist": "The Beatles", 
+    "change": "+42", 
+    "lastPos": 71, 
+    "peakPos": 1, 
+    "rank": 29, 
+    "title": "All You Need Is Love", 
+    "weeks": 11
+},
+{
+    "artist": "Linda Jones", 
+    "change": "+5", 
+    "lastPos": 35, 
+    "peakPos": 21, 
+    "rank": 30, 
+    "title": "Hypnotized", 
+    "weeks": 12
+},
+{
+    "artist": "Dean Martin", 
+    "change": "+1", 
+    "lastPos": 32, 
+    "peakPos": 25, 
+    "rank": 31, 
+    "title": "In The Chapel In The Moonlight", 
+    "weeks": 7
+},
+{
+    "artist": "Bee Gees", 
+    "change": "+10", 
+    "lastPos": 42, 
+    "peakPos": 17, 
+    "rank": 32, 
+    "title": "To Love Somebody", 
+    "weeks": 9
+},
+{
+    "artist": "Herb Alpert & The Tijuana Brass", 
+    "change": "+1", 
+    "lastPos": 34, 
+    "peakPos": 32, 
+    "rank": 33, 
+    "title": "The Happening", 
+    "weeks": 5
+},
+{
+    "artist": "Herman's Hermits", 
+    "change": "-16", 
+    "lastPos": 18, 
+    "peakPos": 18, 
+    "rank": 34, 
+    "title": "Don't Go Out Into The Rain (You're Going To Melt)", 
+    "weeks": 7
+},
+{
+    "artist": "Bunny Sigler", 
+    "change": "+2", 
+    "lastPos": 37, 
+    "peakPos": 22, 
+    "rank": 35, 
+    "title": "Let The Good Times Roll & Feel So Good", 
+    "weeks": 11
+},
+{
+    "artist": "Crispian St. Peters", 
+    "change": "0", 
+    "lastPos": 36, 
+    "peakPos": 36, 
+    "rank": 36, 
+    "title": "You Were On My Mind", 
+    "weeks": 6
+},
+{
+    "artist": "Marvin Gaye", 
+    "change": "+2", 
+    "lastPos": 39, 
+    "peakPos": 33, 
+    "rank": 37, 
+    "title": "Your Unchanging Love", 
+    "weeks": 7
+},
+{
+    "artist": "Marvin Gaye & Tammi Terrell", 
+    "change": "-19", 
+    "lastPos": 19, 
+    "peakPos": 19, 
+    "rank": 38, 
+    "title": "Ain't No Mountain High Enough", 
+    "weeks": 12
+},
+{
+    "artist": "The American Breed", 
+    "change": "-15", 
+    "lastPos": 24, 
+    "peakPos": 24, 
+    "rank": 39, 
+    "title": "Step Out Of Your Mind", 
+    "weeks": 9
+},
+{
+    "artist": "The Grass Roots", 
+    "change": "-12", 
+    "lastPos": 28, 
+    "peakPos": 8, 
+    "rank": 40, 
+    "title": "Let's Live For Today", 
+    "weeks": 12
+},
+{
+    "artist": "Mitch Ryder", 
+    "change": "0", 
+    "lastPos": 41, 
+    "peakPos": 41, 
+    "rank": 41, 
+    "title": "Joy", 
+    "weeks": 6
+},
+{
+    "artist": "Dionne Warwick", 
+    "change": "-4", 
+    "lastPos": 38, 
+    "peakPos": 15, 
+    "rank": 42, 
+    "title": "Alfie", 
+    "weeks": 17
+},
+{
+    "artist": "The Parliaments", 
+    "change": "+11", 
+    "lastPos": 54, 
+    "peakPos": 20, 
+    "rank": 43, 
+    "title": "(I Wanna) Testify", 
+    "weeks": 13
+},
+{
+    "artist": "Nancy Sinatra", 
+    "change": "+6", 
+    "lastPos": 50, 
+    "peakPos": 44, 
+    "rank": 44, 
+    "title": "You Only Live Twice", 
+    "weeks": 9
+},
+{
+    "artist": "Lou Rawls", 
+    "change": "0", 
+    "lastPos": 45, 
+    "peakPos": 45, 
+    "rank": 45, 
+    "title": "Show Business", 
+    "weeks": 7
+},
+{
+    "artist": "The Monkees", 
+    "change": "+32", 
+    "lastPos": 78, 
+    "peakPos": 11, 
+    "rank": 46, 
+    "title": "Words", 
+    "weeks": 9
+},
+{
+    "artist": "Aretha Franklin", 
+    "change": "+18", 
+    "lastPos": 65, 
+    "peakPos": 4, 
+    "rank": 47, 
+    "title": "Baby I Love You", 
+    "weeks": 11
+},
+{
+    "artist": "Neil Diamond", 
+    "change": "+14", 
+    "lastPos": 62, 
+    "peakPos": 13, 
+    "rank": 48, 
+    "title": "Thank The Lord For The Night Time", 
+    "weeks": 11
+},
+{
+    "artist": "Johnny Rivers", 
+    "change": "-20", 
+    "lastPos": 29, 
+    "peakPos": 10, 
+    "rank": 49, 
+    "title": "The Tracks Of My Tears", 
+    "weeks": 9
+},
+{
+    "artist": "The Critters", 
+    "change": "+8", 
+    "lastPos": 58, 
+    "peakPos": 39, 
+    "rank": 50, 
+    "title": "Don't Let The Rain Fall Down On Me", 
+    "weeks": 8
+},
+{
+    "artist": "The Forum", 
+    "change": "+2", 
+    "lastPos": 53, 
+    "peakPos": 45, 
+    "rank": 51, 
+    "title": "The River Is Wide", 
+    "weeks": 8
+},
+{
+    "artist": "The Who", 
+    "change": "0", 
+    "lastPos": 52, 
+    "peakPos": 51, 
+    "rank": 52, 
+    "title": "Pictures Of Lily", 
+    "weeks": 6
+},
+{
+    "artist": "Solomon Burke", 
+    "change": "-4", 
+    "lastPos": 49, 
+    "peakPos": 49, 
+    "rank": 53, 
+    "title": "Take Me (Just As I Am)", 
+    "weeks": 5
+},
+{
+    "artist": "James & Bobby Purify", 
+    "change": "+10", 
+    "lastPos": 64, 
+    "peakPos": 41, 
+    "rank": 54, 
+    "title": "I Take What I Want", 
+    "weeks": 6
+},
+{
+    "artist": "Tommy Boyce & Bobby Hart", 
+    "change": "+2", 
+    "lastPos": 57, 
+    "peakPos": 39, 
+    "rank": 55, 
+    "title": "Out & About", 
+    "weeks": 7
+},
+{
+    "artist": "Sam & Dave", 
+    "change": "0", 
+    "lastPos": 56, 
+    "peakPos": 56, 
+    "rank": 56, 
+    "title": "Soothe Me", 
+    "weeks": 7
+},
+{
+    "artist": "The Spencer Davis Group", 
+    "change": "-10", 
+    "lastPos": 47, 
+    "peakPos": 47, 
+    "rank": 57, 
+    "title": "Somebody Help Me", 
+    "weeks": 7
+},
+{
+    "artist": "James Brown And The Famous Flames", 
+    "change": "+17", 
+    "lastPos": 75, 
+    "peakPos": 7, 
+    "rank": 58, 
+    "title": "Cold Sweat - Part 1", 
+    "weeks": 12
+},
+{
+    "artist": "Gladys Knight And The Pips", 
+    "change": "+10", 
+    "lastPos": 69, 
+    "peakPos": 39, 
+    "rank": 59, 
+    "title": "Everybody Needs Love", 
+    "weeks": 9
+},
+{
+    "artist": "The Buffalo Springfield", 
+    "change": "+3", 
+    "lastPos": 63, 
+    "peakPos": 58, 
+    "rank": 60, 
+    "title": "Bluebird", 
+    "weeks": 7
+},
+{
+    "artist": "Pieces Of Eight", 
+    "change": "0", 
+    "lastPos": 61, 
+    "peakPos": 59, 
+    "rank": 61, 
+    "title": "Lonely Drifter", 
+    "weeks": 8
+},
+{
+    "artist": "The Platters", 
+    "change": "+4", 
+    "lastPos": 66, 
+    "peakPos": 56, 
+    "rank": 62, 
+    "title": "Washed Ashore (On A Lonely Island In The Sea)", 
+    "weeks": 8
+},
+{
+    "artist": "Frankie Laine", 
+    "change": "-15", 
+    "lastPos": 48, 
+    "peakPos": 48, 
+    "rank": 63, 
+    "title": "You Wanted Someone To Play With (I Wanted Someone To Love)", 
+    "weeks": 7
+},
+{
+    "artist": "The Beatles", 
+    "change": "Re-Entry", 
+    "lastPos": 0, 
+    "peakPos": 34, 
+    "rank": 64, 
+    "title": "Baby You're A Rich Man", 
+    "weeks": 5
+},
+{
+    "artist": "Glen Campbell", 
+    "change": "+3", 
+    "lastPos": 68, 
+    "peakPos": 39, 
+    "rank": 65, 
+    "title": "Gentle On My Mind", 
+    "weeks": 16
+},
+{
+    "artist": "Chris Bartley", 
+    "change": "+19", 
+    "lastPos": 85, 
+    "peakPos": 32, 
+    "rank": 66, 
+    "title": "The Sweetest Thing This Side Of Heaven", 
+    "weeks": 7
+},
+{
+    "artist": "The Vanilla Fudge", 
+    "change": "0", 
+    "lastPos": 67, 
+    "peakPos": 6, 
+    "rank": 67, 
+    "title": "You Keep Me Hangin' On", 
+    "weeks": 17
+},
+{
+    "artist": "Jr. Walker & The All Stars", 
+    "change": "+16", 
+    "lastPos": 84, 
+    "peakPos": 44, 
+    "rank": 68, 
+    "title": "Shoot Your Shot", 
+    "weeks": 7
+},
+{
+    "artist": "Davie Allan And The Arrows", 
+    "change": "+10", 
+    "lastPos": 79, 
+    "peakPos": 37, 
+    "rank": 69, 
+    "title": "Blue's Theme", 
+    "weeks": 17
+},
+{
+    "artist": "The Tokens", 
+    "change": "+3", 
+    "lastPos": 73, 
+    "peakPos": 69, 
+    "rank": 70, 
+    "title": "It's A Happening World", 
+    "weeks": 4
+},
+{
+    "artist": "Bobby Vee And The Strangers", 
+    "change": "+23", 
+    "lastPos": 94, 
+    "peakPos": 3, 
+    "rank": 71, 
+    "title": "Come Back When You Grow Up", 
+    "weeks": 16
+},
+{
+    "artist": "The Seeds", 
+    "change": "+10", 
+    "lastPos": 82, 
+    "peakPos": 72, 
+    "rank": 72, 
+    "title": "A Thousand Shadows", 
+    "weeks": 4
+},
+{
+    "artist": "Jimmy Ruffin", 
+    "change": "+20", 
+    "lastPos": 93, 
+    "peakPos": 68, 
+    "rank": 73, 
+    "title": "Don't You Miss Me A Little Bit Baby", 
+    "weeks": 5
+},
+{
+    "artist": "The Temptations", 
+    "change": "Re-Entry", 
+    "lastPos": 0, 
+    "peakPos": 6, 
+    "rank": 74, 
+    "title": "You're My Everything", 
+    "weeks": 12
+},
+{
+    "artist": "Otis Redding", 
+    "change": "Re-Entry", 
+    "lastPos": 0, 
+    "peakPos": 60, 
+    "rank": 75, 
+    "title": "Glory Of Love", 
+    "weeks": 4
+},
+{
+    "artist": "Booker T. & The MG's", 
+    "change": "Re-Entry", 
+    "lastPos": 0, 
+    "peakPos": 70, 
+    "rank": 76, 
+    "title": "Slim Jenkin's Place", 
+    "weeks": 5
+},
+{
+    "artist": "Four Tops", 
+    "change": "+4", 
+    "lastPos": 81, 
+    "peakPos": 76, 
+    "rank": 77, 
+    "title": "I'll Turn To Stone", 
+    "weeks": 5
+},
+{
+    "artist": "Van Morrison", 
+    "change": "+19", 
+    "lastPos": 97, 
+    "peakPos": 10, 
+    "rank": 78, 
+    "title": "Brown Eyed Girl", 
+    "weeks": 16
+},
+{
+    "artist": "Dionne Warwick", 
+    "change": "Re-Entry", 
+    "lastPos": 0, 
+    "peakPos": 32, 
+    "rank": 79, 
+    "title": "The Windows Of The World", 
+    "weeks": 9
+},
+{
+    "artist": "Roy Orbison", 
+    "change": "Re-Entry", 
+    "lastPos": 0, 
+    "peakPos": 52, 
+    "rank": 80, 
+    "title": "Cry Softly Lonely One", 
+    "weeks": 6
+},
+{
+    "artist": "Simon & Garfunkel", 
+    "change": "Re-Entry", 
+    "lastPos": 0, 
+    "peakPos": 23, 
+    "rank": 81, 
+    "title": "Fakin' It", 
+    "weeks": 8
+},
+{
+    "artist": "Dyke And The Blazers", 
+    "change": "+7", 
+    "lastPos": 89, 
+    "peakPos": 65, 
+    "rank": 82, 
+    "title": "Funky Broadway Part I", 
+    "weeks": 15
+},
+{
+    "artist": "Jay And The Techniques", 
+    "change": "+13", 
+    "lastPos": 96, 
+    "peakPos": 6, 
+    "rank": 83, 
+    "title": "Apples, Peaches, Pumpkin Pie", 
+    "weeks": 17
+},
+{
+    "artist": "The Love Generation", 
+    "change": "-10", 
+    "lastPos": 74, 
+    "peakPos": 74, 
+    "rank": 84, 
+    "title": "Groovy Summertime", 
+    "weeks": 7
+},
+{
+    "artist": "Betty Harris", 
+    "change": "Re-Entry", 
+    "lastPos": 0, 
+    "peakPos": 85, 
+    "rank": 85, 
+    "title": "Nearer To You", 
+    "weeks": 4
+},
+{
+    "artist": "Nino Tempo & April Stevens", 
+    "change": "+1", 
+    "lastPos": 87, 
+    "peakPos": 86, 
+    "rank": 86, 
+    "title": "I Can't Go On Livin' Baby Without You", 
+    "weeks": 2
+},
+{
+    "artist": "The Blades Of Grass", 
+    "change": "+5", 
+    "lastPos": 92, 
+    "peakPos": 87, 
+    "rank": 87, 
+    "title": "Happy", 
+    "weeks": 4
+},
+{
+    "artist": "The Sunshine Company", 
+    "change": "+2", 
+    "lastPos": 90, 
+    "peakPos": 50, 
+    "rank": 88, 
+    "title": "Happy", 
+    "weeks": 10
+},
+{
+    "artist": "David Houston & Tammy Wynette", 
+    "change": "+2", 
+    "lastPos": 91, 
+    "peakPos": 89, 
+    "rank": 89, 
+    "title": "My Elusive Dreams", 
+    "weeks": 5
+},
+{
+    "artist": "Andre Williams", 
+    "change": "Re-Entry", 
+    "lastPos": 0, 
+    "peakPos": 90, 
+    "rank": 90, 
+    "title": "Pearl Time", 
+    "weeks": 2
+},
+{
+    "artist": "Andy Williams", 
+    "change": "Re-Entry", 
+    "lastPos": 0, 
+    "peakPos": 88, 
+    "rank": 91, 
+    "title": "More And More", 
+    "weeks": 4
+},
+{
+    "artist": "The Elgins", 
+    "change": "Hot Shot Debut", 
+    "lastPos": 0, 
+    "peakPos": 92, 
+    "rank": 92, 
+    "title": "It's Been A Long Long Time", 
+    "weeks": 1
+},
+{
+    "artist": "Bobby Darin", 
+    "change": "Re-Entry", 
+    "lastPos": 0, 
+    "peakPos": 93, 
+    "rank": 93, 
+    "title": "Darling Be Home Soon", 
+    "weeks": 2
+},
+{
+    "artist": "The Sweet Inspirations", 
+    "change": "+1", 
+    "lastPos": 95, 
+    "peakPos": 94, 
+    "rank": 94, 
+    "title": "Let It Be Me", 
+    "weeks": 2
+},
+{
+    "artist": "Dusty Springfield", 
+    "change": "+3", 
+    "lastPos": 98, 
+    "peakPos": 22, 
+    "rank": 95, 
+    "title": "The Look Of Love", 
+    "weeks": 15
+},
+{
+    "artist": "Willie Mitchell", 
+    "change": "+3", 
+    "lastPos": 99, 
+    "peakPos": 96, 
+    "rank": 96, 
+    "title": "Slippin' & Slidin'", 
+    "weeks": 2
+},
+{
+    "artist": "Davie Allen And The Arrows", 
+    "change": "New", 
+    "lastPos": 0, 
+    "peakPos": 97, 
+    "rank": 97, 
+    "title": "Devil's Angels", 
+    "weeks": 1
+},
+{
+    "artist": "Don And The Goodtimes", 
+    "change": "New", 
+    "lastPos": 0, 
+    "peakPos": 98, 
+    "rank": 98, 
+    "title": "Happy And Me", 
+    "weeks": 1
+},
+{
+    "artist": "The Wonder Who?", 
+    "change": "Re-Entry", 
+    "lastPos": 0, 
+    "peakPos": 89, 
+    "rank": 99, 
+    "title": "Lonesome Road", 
+    "weeks": 4
+},
+{
+    "artist": "Sonny James", 
+    "change": "0", 
+    "lastPos": 100, 
+    "peakPos": 97, 
+    "rank": 100, 
+    "title": "I'll Never Find Another You", 
+    "weeks": 3
+}]
